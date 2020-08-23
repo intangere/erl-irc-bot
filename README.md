@@ -11,6 +11,13 @@ USERNAME
 CHANNEL
 ```
 
+Notes: 
+- Uses the 376 motd status code to auto join
+
+Todo: 
+- Ping 
+- Command system 
+
 Compile with:
 ```
 erlc -o ebin src/*.erl
