@@ -1,0 +1,3 @@
+%% encoding: UTF-8
+{application,irc}.
+{modules,[irc,irc_app,irc_sup]}.
