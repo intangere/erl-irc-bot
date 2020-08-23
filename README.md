@@ -32,3 +32,8 @@ Generate docs with:
 ```
 edoc:application(irc).
 ```
+
+With private functions:
+```
+edoc:application(irc, [private]).
+```
